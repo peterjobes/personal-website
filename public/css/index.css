@@ -105,11 +105,6 @@ header:after {
 	clear: both;
 }
 
-.site-title-font {
-	font-family: 'Gloock', serif;
-	font-size: 1.4rem;
-}
-
 .links-nextprev {
 	list-style: none;
 	border-top: 1px dashed var(--color-gray-20);
@@ -156,13 +151,18 @@ header {
 	padding: 1em;
 }
 .home-link {
-	font-size: 1em; /* 16px /16 */
 	font-weight: 700;
 	margin-right: 2em;
 }
 .home-link:link:not(:hover) {
 	text-decoration: none;
 }
+
+.site-title-font {
+	font-family: 'Gloock', serif;
+	font-size: 1.8em;
+}
+
 
 /* Nav */
 .nav {
