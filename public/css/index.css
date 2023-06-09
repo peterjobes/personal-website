@@ -105,6 +105,11 @@ header:after {
 	clear: both;
 }
 
+.site-title-font {
+	font-family: 'Gloock', serif;
+	font-size: 1.4rem;
+}
+
 .links-nextprev {
 	list-style: none;
 	border-top: 1px dashed var(--color-gray-20);
