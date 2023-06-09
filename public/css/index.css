@@ -177,6 +177,12 @@ header {
 	font-size: 1.4em;
 }
 
+/* Typography */
+
+h1, h2, h3 {
+	font-family: 'Gloock', serif;
+}	
+
 
 /* Nav */
 .nav {
