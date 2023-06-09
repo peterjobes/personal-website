@@ -144,6 +144,19 @@ code {
 }
 
 /* Header */
+
+.top-strip {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 5px;
+    z-index: 700;
+    background-image: url(img/signature-strip.png);
+    background-repeat: no-repeat;
+    background-size: 100% 5px;
+}
+
 header {
 	display: flex;
 	gap: 1em .5em;
