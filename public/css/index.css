@@ -91,7 +91,7 @@ a[href]:active {
 }
 
 main {
-	padding: 1rem;
+	padding: 2em 1em;
 }
 main :first-child {
 	margin-top: 0;
@@ -162,7 +162,7 @@ header {
 	gap: 1em .5em;
 	flex-wrap: wrap;
 	align-items: center;
-	padding: 1em;
+	padding: 2em 1em;
 }
 .home-link {
 	font-weight: 700;
@@ -174,7 +174,7 @@ header {
 
 .site-title-font {
 	font-family: 'Gloock', serif;
-	font-size: 2.2em;
+	font-size: 2.5em;
 }
 
 /* Typography */
