@@ -174,7 +174,7 @@ header {
 
 .site-title-font {
 	font-family: 'Gloock', serif;
-	font-size: 1.5em;
+	font-size: 2.2em;
 }
 
 /* Typography */
@@ -190,6 +190,7 @@ h1, h2, h3 {
 	padding: 0;
 	margin: 0;
 	list-style: none;
+	font-size:0.9em;
 }
 .nav-item {
 	display: inline-block;
